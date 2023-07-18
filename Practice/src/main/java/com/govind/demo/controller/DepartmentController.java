@@ -18,7 +18,7 @@ public class DepartmentController {
 
 	@GetMapping("/")
 	public String hello() {
-		return "hi its running";
+		return "Welcome to Govind Bhujbal Spring Boot Application !!!";
 	}
 	
 	//
